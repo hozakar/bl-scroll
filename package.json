@@ -1,22 +1,13 @@
 {
-  "author": {
-    "name": "Hakan Özakar",
-    "email": "hozakar@gmail.com"
-  },
+  "name": "bl-scroll",
   "description": "Smooth Scroll",
-  "keywords": [
-    "smooth",
-    "scroll",
-    "smoothscroll"
-  ],
+  "keywords": "smooth, scroll smoothscroll",
+  "author": "Hakan Özakar <hozakar@gmail.com>",
   "license": "MIT",
   "main": "index.js",
-  "name": "bl-scroll",
-  "readme": "ERROR: No README data found!",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "0.1.11",
   "repository": {
     "type": "git",
     "url": "https://github.com/hozakar/bl-scroll.git"
@@ -24,5 +15,7 @@
   "bugs": {
     "url": "https://github.com/hozakar/bl-scroll/issues"
   },
-  "homepage": "https://github.com/hozakar/bl-scroll#readme"
+  "homepage": "https://github.com/hozakar/bl-scroll#readme",
+  "readme": "ERROR: No README data found!",
+  "version": "0.1.12"
 }
