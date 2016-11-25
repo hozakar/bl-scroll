@@ -3,9 +3,7 @@
     "name": "Hakan Özakar",
     "email": "hozakar@gmail.com"
   },
-  "dependencies": {},
   "description": "Smooth Scroll",
-  "devDependencies": {},
   "keywords": [
     "smooth",
     "scroll",
@@ -18,7 +16,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "0.1.9",
+  "version": "0.1.11",
   "repository": {
     "type": "git",
     "url": "https://github.com/hozakar/bl-scroll.git"
