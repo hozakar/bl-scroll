@@ -1,0 +1,22 @@
+{
+  "author": {
+    "name": "Hakan Özakar",
+    "email": "hozakar@gmail.com"
+  },
+  "dependencies": {},
+  "description": "Smooth Scroll",
+  "devDependencies": {},
+  "keywords": [
+    "smooth",
+    "scroll",
+    "smoothscroll"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "bl-scroll",
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.5"
+}
