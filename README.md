@@ -2,11 +2,11 @@
 
 A very simple and light weight vertical scroll tool with no dependencies. Can be used on any DOM element.
 
-# Installation
+## Installation
 
 `npm install bl-scroll --save`
 
-# Usage
+## Usage
 
 ``` javascript
 var scroll = require('bl-scroll');
