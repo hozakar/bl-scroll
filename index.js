@@ -26,7 +26,7 @@ var scroll = function (scrollTop, interval, fps) {
       this.lastTimestamp = timestamp;
 
       setTimeout(function() {
-        this.rafHandler = window.requestAnimationFrame(step.bind(this));
+        this.rafHandler = raf(step.bind(this));
       }.bind(this), delay);
     }
   };

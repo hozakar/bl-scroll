@@ -1,7 +1,7 @@
 {
   "name": "bl-scroll",
   "description": "Smooth Scroll",
-  "keywords": "smooth, scroll smoothscroll",
+  "keywords": "smooth, scroll, smoothscroll, smooth-scroll",
   "author": "Hakan Özakar <hozakar@gmail.com>",
   "license": "MIT",
   "main": "index.js",
@@ -16,5 +16,5 @@
     "url": "https://github.com/hozakar/bl-scroll/issues"
   },
   "homepage": "https://github.com/hozakar/bl-scroll#readme",
-  "version": "0.1.12"
+  "version": "0.1.13"
 }
